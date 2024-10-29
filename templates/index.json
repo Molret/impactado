@@ -16,13 +16,14 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/desk_4fc84ef9-0ad1-42ac-a829-8b2dfc62d380-oJXmJummT-transformed.png",
-            "content_max_width": 720,
+            "mobile_image": "shopify://shop_images/bf43e66f-ddde-40dd-b791-93b3d72dce43.jpg",
+            "content_max_width": 740,
             "mobile_text_position": "place-self-start text-start",
             "desktop_text_position": "sm:place-self-start sm:text-start",
-            "subheading": "Disfraza.me",
-            "title": "Proyecta calidad, vive la experiencia",
-            "heading_tag": "h1",
-            "button_text": "Compra Ahora",
+            "subheading": "",
+            "title": "Proyecta calidad,<br> vive la experiencia",
+            "heading_tag": "h2",
+            "button_text": "Comprar Ahora",
             "button_link": "",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
@@ -120,6 +121,7 @@
         "1664424046b00c932c-3",
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "block_size": "medium",
@@ -137,9 +139,10 @@
     },
     "scrolling-text": {
       "type": "scrolling-text",
+      "disabled": true,
       "settings": {
         "full_width": true,
-        "text": "Descuento del 40% 🎃",
+        "text": "Descuento Limitado del 40%",
         "text_size": "large",
         "text_style": "fill",
         "scrolling_mode": "auto",
@@ -229,14 +232,14 @@
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
-        "products_count": 6,
+        "products_count": 2,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
-        "subheading": "Disfraza.me",
-        "title": "Productos Destacados",
-        "content": "<p>Con un 40% de descuento | Alta calidad garantizada ✅</p>",
+        "subheading": "¡Proyectores y Accesorios!",
+        "title": "Compra en DropLight™",
+        "content": "",
         "link_url": "",
-        "link_text": "Ver todos",
+        "link_text": "Ver todo",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -246,13 +249,94 @@
         "product_card_text_color": ""
       }
     },
+    "media_grid_izCUQG": {
+      "type": "media-grid",
+      "blocks": {
+        "image_QmkBDJ": {
+          "type": "image",
+          "settings": {
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_gr7dxt": {
+          "type": "image",
+          "settings": {
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_NAJcYz": {
+          "type": "image",
+          "settings": {
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_QmkBDJ",
+        "image_gr7dxt",
+        "image_NAJcYz"
+      ],
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
+      }
+    },
     "impact-text": {
       "type": "impact-text",
       "blocks": {
         "1664424181b38582d5-0": {
           "type": "item",
           "settings": {
-            "title": "96%",
+            "title": "97%",
             "subheading": "Clientes Satisfechos",
             "content": "",
             "button_text": "",
@@ -264,7 +348,7 @@
         "item_W3Cma4": {
           "type": "item",
           "settings": {
-            "title": "450+",
+            "title": "157",
             "subheading": "Envíos Realizados",
             "content": "",
             "button_text": "",
@@ -500,6 +584,7 @@
         "16644243327ba53d2a-1",
         "quote_YFp4Ld"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "content_size": "medium",
@@ -703,6 +788,7 @@
         "quantity-selector",
         "buy-buttons"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "product": "disfraz-alien-infable-👽",
@@ -876,6 +962,7 @@
         "item_hwkqQr",
         "166442457738b23caf-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "subheading": "FAQ",
@@ -897,6 +984,40 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "media_with_text_GhGi7E": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_HUDAfY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/81TN1N9qIQL._AC_UF1000_1000_QL80.jpg",
+            "media_width": 30,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Entretenimiento portátil",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_HUDAfY"
+      ],
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
     }
   },
   "order": [
@@ -905,6 +1026,7 @@
     "scrolling-text",
     "collection-list",
     "featured-collection",
+    "media_grid_izCUQG",
     "impact-text",
     "image-with-text-overlay",
     "media-grid",
@@ -914,6 +1036,7 @@
     "multiple-images-with-text",
     "featured-product",
     "feature-chart",
-    "faq"
+    "faq",
+    "media_with_text_GhGi7E"
   ]
 }

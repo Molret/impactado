@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Envío Gratuito 📦",
+            "text": "Envío Gratis 📦",
             "url": ""
           }
         },
@@ -47,7 +47,7 @@
         "navigation_mode": "scrolling",
         "scrolling_speed": 20,
         "background": "#1a1a1a",
-        "background_gradient": "radial-gradient(rgba(255, 154, 98, 1), rgba(255, 204, 75, 1) 100%)",
+        "background_gradient": "linear-gradient(89deg, rgba(219, 149, 250, 1) 7%, rgba(148, 88, 255, 1) 94%)",
         "text_color": "#ffffff"
       }
     },
