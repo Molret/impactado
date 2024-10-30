@@ -111,8 +111,15 @@
         "collapsible_text_RVAiU7": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>"
+            "title": "🚚 Envío Gratis y Asegurado",
+            "content": "<p><strong>¡Nosotros nos encargamos del envío!</strong> Aprovecha esta oferta exclusiva por tiempo limitado y recibe tu pedido sin costo adicional. Además, cuentas con una garantía de 7 días desde la fecha de compra para tu tranquilidad. Esta garantía cubre cualquier defecto del producto, daños durante el envío o si el producto no llega.</p>"
+          }
+        },
+        "collapsible_text_zGWGQY": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "🌍 ¿Qué empresa va a traer mi paquete?",
+            "content": "<p>En DropLight™, colaboramos con empresas de envío tanto nacionales como internacionales para garantizar entregas a nivel mundial. En Chile, trabajamos principalmente con compañías confiables como <a href=\"https://blue.cl\" target=\"_blank\" title=\"https://blue.cl\">BlueExpress</a>, <a href=\"https://correos.cl\" target=\"_blank\" title=\"https://correos.cl\">CorreosChile</a>, <a href=\"https://starken.cl\" target=\"_blank\" title=\"https://starken.cl\">Starken</a>, <a href=\"https://99minutos.com\" target=\"_blank\" title=\"https://99minutos.com\">99Minutos</a>, <a href=\"https://cainiao.com\" title=\"https://cainiao.com\">Cainiao</a>, entre otras.</p>"
           }
         }
       },
@@ -132,7 +139,8 @@
         "collapsible_text_tkdNjd",
         "collapsible_text_RtC3Dq",
         "collapsible_text_nNUciH",
-        "collapsible_text_RVAiU7"
+        "collapsible_text_RVAiU7",
+        "collapsible_text_zGWGQY"
       ],
       "settings": {
         "full_width": true,
