@@ -249,6 +249,90 @@
         "product_card_text_color": ""
       }
     },
+    "rich_text_MUeYYD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qpkRaE": {
+          "type": "heading",
+          "settings": {
+            "text": "Entretenimiento Portátil",
+            "heading_tag": "h0",
+            "text_color": "",
+            "gradient": "linear-gradient(89deg, rgba(219, 149, 250, 1) 7%, rgba(148, 88, 255, 1) 94%)"
+          }
+        },
+        "richtext_VXLcTN": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Vive el cine en cualquier lugar con DropLight™</strong>. Su increíble tamaño compacto  te permite llevarlo a todas partes, mientras que su brillo de 260 ANSI y  resolución 4K te aseguran  imágenes impactantes dondequiera que estés.</p>"
+          }
+        },
+        "image_dkJfdW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/download4cc_2024_10_30_1730250135.179101-ezgif.com-optimize.gif",
+            "width_mode": "custom",
+            "max_width": 250,
+            "mobile_max_width": 200
+          }
+        }
+      },
+      "block_order": [
+        "heading_qpkRaE",
+        "richtext_VXLcTN",
+        "image_dkJfdW"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_D9PeyP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Dem3xW": {
+          "type": "heading",
+          "settings": {
+            "text": "Entretenimiento Portátil",
+            "heading_tag": "h0",
+            "text_color": "",
+            "gradient": "linear-gradient(89deg, rgba(219, 149, 250, 1) 7%, rgba(148, 88, 255, 1) 94%)"
+          }
+        },
+        "richtext_dLdWg7": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Vive el cine en cualquier lugar con DropLight™</strong>. Su increíble tamaño compacto  te permite llevarlo a todas partes, mientras que su brillo de 260 ANSI y  resolución 4K te aseguran  imágenes impactantes dondequiera que estés.</p>"
+          }
+        },
+        "image_CmkXRp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/download4cc_2024_10_30_1730250135.179101-ezgif.com-optimize.gif",
+            "width_mode": "custom",
+            "max_width": 250,
+            "mobile_max_width": 200
+          }
+        }
+      },
+      "block_order": [
+        "heading_Dem3xW",
+        "richtext_dLdWg7",
+        "image_CmkXRp"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_grid_izCUQG": {
       "type": "media-grid",
       "blocks": {
@@ -376,46 +460,6 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "image-with-text-overlay": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "1664424230c4756b0e-0": {
-          "type": "subheading",
-          "settings": {
-            "text": "Fundados en Santiago, Chile."
-          }
-        },
-        "1664424230c4756b0e-1": {
-          "type": "heading",
-          "settings": {
-            "text": "¿Quienes Somos?",
-            "heading_tag": "h1"
-          }
-        },
-        "1664424230c4756b0e-2": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Somos una marca especializada en la venta de disfraces y prendas para dormir de alta calidad, envíos rápidos y a un precio asequible para todos los chilenos. Contamos con soporte todos los días del año y garantía en todos nuestros productos.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "1664424230c4756b0e-0",
-        "1664424230c4756b0e-1",
-        "1664424230c4756b0e-2"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "sm",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
       }
     },
     "media-grid": {
@@ -987,33 +1031,6 @@
     },
     "media_with_text_GhGi7E": {
       "type": "media-with-text",
-      "blocks": {
-        "image_HUDAfY": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/81TN1N9qIQL._AC_UF1000_1000_QL80.jpg",
-            "media_width": 30,
-            "media_position": "start",
-            "text_position": "place-self-center-start text-start",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Entretenimiento portátil",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#ffffff",
-            "background_gradient": "",
-            "text_color": "#1a1a1a",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_HUDAfY"
-      ],
       "settings": {
         "full_width": false,
         "spacing": "small"
@@ -1026,9 +1043,10 @@
     "scrolling-text",
     "collection-list",
     "featured-collection",
+    "rich_text_MUeYYD",
+    "rich_text_D9PeyP",
     "media_grid_izCUQG",
     "impact-text",
-    "image-with-text-overlay",
     "media-grid",
     "before-after-image",
     "press",
