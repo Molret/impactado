@@ -405,6 +405,7 @@
         "image_gr7dxt",
         "image_NAJcYz"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "reduce_width": false,
@@ -425,19 +426,19 @@
             "content": "",
             "button_text": "",
             "button_url": "",
-            "animate_impact_text": false,
+            "animate_impact_text": true,
             "animate_impact_text_duration": 2
           }
         },
         "item_W3Cma4": {
           "type": "item",
           "settings": {
-            "title": "157",
+            "title": "+154",
             "subheading": "Envíos Realizados",
             "content": "",
             "button_text": "",
             "button_url": "",
-            "animate_impact_text": false,
+            "animate_impact_text": true,
             "animate_impact_text_duration": 2
           }
         }
@@ -456,114 +457,49 @@
         "background": "",
         "background_gradient": "",
         "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
+        "heading_gradient": "linear-gradient(180deg, rgba(128, 60, 238, 1), rgba(26, 26, 26, 0) 100%)",
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
       }
     },
-    "media-grid": {
-      "type": "media-grid",
+    "rich_text_mFUtgf": {
+      "type": "rich-text",
       "blocks": {
-        "item-1": {
-          "type": "image",
+        "subheading_y6nYYV": {
+          "type": "subheading",
           "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "text": "Subheading"
           }
         },
-        "item-2": {
-          "type": "image",
+        "heading_xb96GU": {
+          "type": "heading",
           "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 1,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
           }
         },
-        "item-3": {
-          "type": "image",
+        "richtext_MwTggj": {
+          "type": "richtext",
           "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 1,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "29246d34-c6e0-4373-84f6-b15e57736a00": {
-          "type": "image",
-          "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "item-1",
-        "item-2",
-        "item-3",
-        "29246d34-c6e0-4373-84f6-b15e57736a00"
+        "subheading_y6nYYV",
+        "heading_xb96GU",
+        "richtext_MwTggj"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 150,
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
-        "background_gradient": ""
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "before-after-image": {
@@ -1028,13 +964,6 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
-    },
-    "media_with_text_GhGi7E": {
-      "type": "media-with-text",
-      "settings": {
-        "full_width": false,
-        "spacing": "small"
-      }
     }
   },
   "order": [
@@ -1047,14 +976,13 @@
     "rich_text_D9PeyP",
     "media_grid_izCUQG",
     "impact-text",
-    "media-grid",
+    "rich_text_mFUtgf",
     "before-after-image",
     "press",
     "hot-spots",
     "multiple-images-with-text",
     "featured-product",
     "feature-chart",
-    "faq",
-    "media_with_text_GhGi7E"
+    "faq"
   ]
 }
