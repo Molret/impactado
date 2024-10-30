@@ -9,6 +9,7 @@
  */
 {
   "current": {
+    "page_width": 1600,
     "section_vertical_spacing": "medium",
     "button_border_radius": 60,
     "input_border_radius": 8,
@@ -36,6 +37,7 @@
     "heading_apparition": "split_fade",
     "show_vendor": true,
     "show_product_rating": true,
+    "discount_mode": "saving",
     "product_color_display": "swatch",
     "product_info_alignment": "start",
     "cart_show_free_shipping_threshold": true,

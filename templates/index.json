@@ -227,12 +227,12 @@
       "settings": {
         "collection": "frontpage",
         "products": [
-
+          "proyector-droplight™-4k"
         ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
-        "products_count": 2,
+        "products_count": 48,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "subheading": "¡Proyectores y Accesorios!",
