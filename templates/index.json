@@ -466,19 +466,13 @@
     "rich_text_mFUtgf": {
       "type": "rich-text",
       "blocks": {
-        "subheading_y6nYYV": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_xb96GU": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
+            "text": "¿Que dicen de nosotros?",
             "heading_tag": "h1",
             "text_color": "",
-            "gradient": ""
+            "gradient": "linear-gradient(89deg, rgba(219, 149, 250, 1) 7%, rgba(148, 88, 255, 1) 94%)"
           }
         },
         "richtext_MwTggj": {
@@ -489,7 +483,6 @@
         }
       },
       "block_order": [
-        "subheading_y6nYYV",
         "heading_xb96GU",
         "richtext_MwTggj"
       ],
