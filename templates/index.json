@@ -491,16 +491,16 @@
     "17304096772009d3d5": {
       "type": "apps",
       "blocks": {
-        "reelup_shoppable_videos_reels_reelup_stories_a98zhq": {
-          "type": "shopify://apps/reelup-shoppable-videos-reels/blocks/reelup-stories/a8ec9e4d-d192-44f7-9c23-595f9ee7dd5b",
+        "reelup_shoppable_videos_reels_reelup_playlist_qyCiaU": {
+          "type": "shopify://apps/reelup-shoppable-videos-reels/blocks/reelup-playlist/a8ec9e4d-d192-44f7-9c23-595f9ee7dd5b",
           "settings": {
-            "section_id": "rl_pl_10174",
+            "playlist_id": "",
             "debugging_script": ""
           }
         }
       },
       "block_order": [
-        "reelup_shoppable_videos_reels_reelup_stories_a98zhq"
+        "reelup_shoppable_videos_reels_reelup_playlist_qyCiaU"
       ],
       "settings": {
         "full_width": true,
