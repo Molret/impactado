@@ -521,9 +521,8 @@
       "blocks": {
         "richtext_DchzXe": {
           "type": "richtext",
-          "disabled": true,
           "settings": {
-            "content": "<p>---</p>"
+            "content": "<p>¿Qué esperas para obtener tu proyector <strong>DropLight™ 4K</strong>?<br/><br/><a href=\"/products/proyector-droplight™-4k\" title=\"Proyector DropLight™ 4K\">¡Cómpralo ya!</a></p>"
           }
         }
       },
