@@ -488,27 +488,55 @@
         "testimonial_card_text_color": ""
       }
     },
-    "before-after-image": {
-      "type": "before-after-image",
-      "disabled": true,
+    "17304096772009d3d5": {
+      "type": "apps",
+      "blocks": {
+        "reelup_shoppable_videos_reels_reelup_stories_a98zhq": {
+          "type": "shopify://apps/reelup-shoppable-videos-reels/blocks/reelup-stories/a8ec9e4d-d192-44f7-9c23-595f9ee7dd5b",
+          "settings": {
+            "section_id": "",
+            "debugging_script": ""
+          }
+        }
+      },
+      "block_order": [
+        "reelup_shoppable_videos_reels_reelup_stories_a98zhq"
+      ],
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "bottom",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "rich_text_GferY4": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_DchzXe": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p>---</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_DchzXe"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "press": {
@@ -963,7 +991,8 @@
     "impact-text",
     "rich_text_mFUtgf",
     "testimonials_Bz8Tq3",
-    "before-after-image",
+    "17304096772009d3d5",
+    "rich_text_GferY4",
     "press",
     "hot-spots",
     "multiple-images-with-text",
