@@ -333,88 +333,6 @@
         "text_color": ""
       }
     },
-    "media_grid_izCUQG": {
-      "type": "media-grid",
-      "blocks": {
-        "image_QmkBDJ": {
-          "type": "image",
-          "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_gr7dxt": {
-          "type": "image",
-          "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 2,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "image_NAJcYz": {
-          "type": "image",
-          "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
-            "link_url": "",
-            "link_text": "",
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_column_span": 2,
-            "desktop_row_span": 1,
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "#000000",
-            "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "image_QmkBDJ",
-        "image_gr7dxt",
-        "image_NAJcYz"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "reduce_width": false,
-        "desktop_row_height": 290,
-        "mobile_row_height": 150,
-        "background": "",
-        "background_gradient": ""
-      }
-    },
     "impact-text": {
       "type": "impact-text",
       "blocks": {
@@ -478,7 +396,7 @@
         "richtext_MwTggj": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": ""
           }
         }
       },
@@ -493,6 +411,81 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "testimonials_Bz8Tq3": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_nBfmPb": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/426538187_7955914481091402_6096137581641527761_n.jpg",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Aleja Ignacia",
+            "title": "\"Super bueno el proyector 😻\"",
+            "content": "<p>El vendedor fue  rápido a la hora de envíar el producto y coordinar todo. El proyecto es increible y lo compre para mi prima, super bueno el proyector 😻</p>"
+          }
+        },
+        "testimonial_KNbUDd": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/Unknown_person.jpg",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Robin Valdés",
+            "title": "\"Calidad Excelente, envío un poco lento.\"",
+            "content": "<p>El proyector se demoró un poco en llegar acá a Santiago, aunque entiendo que no fue culpa del vendedor, creo que deberían mejorar en ese aspecto, fuera de eso, todo super bien 👍</p>"
+          }
+        },
+        "testimonial_XiczVP": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/334719923_1622830238229849_3392855419366850590_n.jpg",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Diego A",
+            "title": "\"Se ve espectacular la proyección\"",
+            "content": "<p>Llegó super rápido a mi domicilio y la comunicación con el vendedor fue excelente, muchas gracias! </p>"
+          }
+        },
+        "testimonial_VP9Qr4": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/338772774_165678773031519_3284333524011114168_n.jpg",
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Dani J",
+            "title": "\"Buena comunicación y precio...\"",
+            "content": "<p>La verdad es que este proyector  me ha sorprendido gratamente. No sólo por su precio, que es realmente bueno, sino también por la atención al cliente de la tienda. Me resolvieron todas las dudas rapidísimo y con mucha amabilidad. Además, la descripción del producto es súper completa</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_nBfmPb",
+        "testimonial_KNbUDd",
+        "testimonial_XiczVP",
+        "testimonial_VP9Qr4"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "RESEÑAS & TESTIMONIOS",
+        "title": "Testimonios",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
       }
     },
     "before-after-image": {
@@ -967,9 +960,9 @@
     "featured-collection",
     "rich_text_MUeYYD",
     "rich_text_D9PeyP",
-    "media_grid_izCUQG",
     "impact-text",
     "rich_text_mFUtgf",
+    "testimonials_Bz8Tq3",
     "before-after-image",
     "press",
     "hot-spots",
