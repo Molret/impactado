@@ -24,7 +24,7 @@
             "title": "Proyecta calidad,<br> vive la experiencia",
             "heading_tag": "h2",
             "button_text": "Comprar Ahora",
-            "button_link": "",
+            "button_link": "shopify://collections/all",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
@@ -538,58 +538,6 @@
         "text_color": ""
       }
     },
-    "press": {
-      "type": "press",
-      "blocks": {
-        "16644243327ba53d2a-0": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "- Erica AA",
-            "content": "Muy bueno el traje de dinosaurio... A mi hijo le gustó, super bien 😊👍",
-            "show_rating": true,
-            "rating": 5
-          }
-        },
-        "16644243327ba53d2a-1": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "- Alejandro L",
-            "content": "El traje de super buena calidad, aunque el envío pudo mejorar. Pero todo bien",
-            "show_rating": true,
-            "rating": 4
-          }
-        },
-        "quote_YFp4Ld": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "- Beatriz F",
-            "content": "Excelente, super secos los vendedores!",
-            "show_rating": true,
-            "rating": 5
-          }
-        }
-      },
-      "block_order": [
-        "16644243327ba53d2a-0",
-        "16644243327ba53d2a-1",
-        "quote_YFp4Ld"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
     "hot-spots": {
       "type": "hot-spots",
       "blocks": {
@@ -992,7 +940,6 @@
     "testimonials_Bz8Tq3",
     "17304096772009d3d5",
     "rich_text_GferY4",
-    "press",
     "hot-spots",
     "multiple-images-with-text",
     "featured-product",
