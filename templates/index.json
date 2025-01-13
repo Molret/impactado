@@ -15,13 +15,11 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/desk_4fc84ef9-0ad1-42ac-a829-8b2dfc62d380-oJXmJummT-transformed.png",
-            "mobile_image": "shopify://shop_images/bf43e66f-ddde-40dd-b791-93b3d72dce43.jpg",
             "content_max_width": 740,
             "mobile_text_position": "place-self-start text-start",
             "desktop_text_position": "sm:place-self-start sm:text-start",
             "subheading": "",
-            "title": "Proyecta calidad,<br> vive la experiencia",
+            "title": "Proyecta calidad, vive la experiencia",
             "heading_tag": "h2",
             "button_text": "Comprar Ahora",
             "button_link": "shopify://collections/all",
@@ -235,9 +233,9 @@
         "products_count": 48,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
-        "subheading": "¡Proyectores y Accesorios!",
-        "title": "Compra en DropLight™",
-        "content": "",
+        "subheading": "¡Productos y Accesorios!",
+        "title": "¡Compra en Moll & Hauer!",
+        "content": "<p>Satisfacción Garantizada | Garantía de 7 Días ✅</p>",
         "link_url": "",
         "link_text": "Ver todo",
         "background": "",
@@ -270,7 +268,6 @@
         "image_dkJfdW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/download4cc_2024_10_30_1730250135.179101-ezgif.com-optimize.gif",
             "width_mode": "custom",
             "max_width": 250,
             "mobile_max_width": 200
@@ -312,7 +309,6 @@
         "image_CmkXRp": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/giphy.webp",
             "width_mode": "custom",
             "max_width": 250,
             "mobile_max_width": 200
@@ -419,7 +415,6 @@
         "testimonial_nBfmPb": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/426538187_7955914481091402_6096137581641527761_n.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -431,7 +426,6 @@
         "testimonial_KNbUDd": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/Unknown_person.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
@@ -443,7 +437,6 @@
         "testimonial_XiczVP": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/334719923_1622830238229849_3392855419366850590_n.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -455,7 +448,6 @@
         "testimonial_VP9Qr4": {
           "type": "testimonial",
           "settings": {
-            "image": "shopify://shop_images/338772774_165678773031519_3284333524011114168_n.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -490,18 +482,6 @@
     },
     "17304096772009d3d5": {
       "type": "apps",
-      "blocks": {
-        "reelup_shoppable_videos_reels_reelup_playlist_qyCiaU": {
-          "type": "shopify://apps/reelup-shoppable-videos-reels/blocks/reelup-playlist/a8ec9e4d-d192-44f7-9c23-595f9ee7dd5b",
-          "settings": {
-            "playlist_id": "",
-            "debugging_script": ""
-          }
-        }
-      },
-      "block_order": [
-        "reelup_shoppable_videos_reels_reelup_playlist_qyCiaU"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -543,8 +523,7 @@
       "blocks": {
         "vendor": {
           "type": "vendor",
-          "settings": {
-          }
+          "settings": {}
         },
         "title": {
           "type": "title",
@@ -554,8 +533,7 @@
         },
         "badges": {
           "type": "badges",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -571,8 +549,7 @@
         },
         "separator": {
           "type": "separator",
-          "settings": {
-          }
+          "settings": {}
         },
         "description": {
           "type": "description",
@@ -592,8 +569,7 @@
         },
         "quantity-selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy-buttons": {
           "type": "buy_buttons",
@@ -798,7 +774,6 @@
         "subheading": "FAQ",
         "title": "Preguntas Frecuentes",
         "content": "<p>Aquí podrás encontrar preguntas frecuentes que nos hacen nuestros clientes!</p>",
-        "team_avatar": "shopify://shop_images/Diseno_sin_titulo_1.png",
         "team_avatar_width": 150,
         "support_hours": "Nuestro servicio de atención al cliente está disponible de lunes a viernes: de 8 a. m. a 9:00 p. m.",
         "answer_time": "Tiempo de Respuesta Estimado: 2h",
