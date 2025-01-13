@@ -41,59 +41,16 @@
     "product_color_display": "swatch",
     "product_info_alignment": "start",
     "cart_show_free_shipping_threshold": true,
-    "social_instagram": "https://instagram.com/disfraza.me",
+    "social_instagram": "https://instagram.com/moll&hauer",
     "favicon": "shopify://shop_images/IMG_4248_dc487175-aed2-46ff-a1af-e976d2ccf91b.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "14060646107696862457": {
         "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
-        "settings": {
-        }
-      },
-      "9356323809658795675": {
-        "type": "shopify://apps/reelup-shoppable-videos-reels/blocks/reelup/a8ec9e4d-d192-44f7-9c23-595f9ee7dd5b",
-        "disabled": false,
-        "settings": {
-          "debugging_popup_script": "",
-          "debugging_pops_script": "",
-          "debugging_global_script": "",
-          "enable_reelPops": true
-        }
-      },
-      "18423266570658624584": {
-        "type": "shopify://apps/best-currency-converter/blocks/doubly/267afa86-a419-4d5b-a61b-556038e7294d",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "15914998778720525373": {
-        "type": "shopify://apps/crisp-live-chat-chatbot/blocks/app-embed/5c3cfd5f-01d4-496a-891b-f98ecf27ff08",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "6174324309569838175": {
-        "type": "shopify://apps/smile-io/blocks/smile-shopify-app/2fae4e25-1841-4ea2-bc02-bd548478c4f6",
-        "disabled": true,
-        "settings": {
-        }
-      },
-      "17198465164502963513": {
-        "type": "shopify://apps/parcel-panel/blocks/app.embed/fc785c3f-90e0-4c98-a20c-7cde9ba5e4b5",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "13951170544780599758": {
-        "type": "shopify://apps/tapita-seo-speed/blocks/app-embed/cd37ca7a-40ad-4fdc-afd3-768701482209",
-        "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       }
     }
   },
