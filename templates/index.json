@@ -113,6 +113,62 @@
         "text_gradient": ""
       }
     },
+    "hot_spots_TEt8Mz": {
+      "type": "hot-spots",
+      "blocks": {
+        "item_7PXWfy": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 48,
+            "vertical_position": 70,
+            "horizontal_position_mobile": 24,
+            "vertical_position_mobile": 70,
+            "icon_width": 32,
+            "title": "Feature name",
+            "content": "<p>Share useful information about your product features.</p>"
+          }
+        },
+        "item_WiXmen": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 62,
+            "vertical_position": 14,
+            "horizontal_position_mobile": 62,
+            "vertical_position_mobile": 14,
+            "icon_width": 32,
+            "title": "Feature name",
+            "content": "<p>Share useful information about your product features.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_7PXWfy",
+        "item_WiXmen"
+      ],
+      "custom_css": [],
+      "settings": {
+        "full_width": true,
+        "image": "shopify://shop_images/watonafinal-Photoroom_2_-fotor-2025011601715.jpg",
+        "title": "Acerca del Resveratrol",
+        "content": "<p>Diseñado por Reus Research con precisión de grado farmacéutico, este suplemento de resveratrol cuenta con un envase diseñado para preservar potentes compuestos antioxidantes, proporcionando una dosis concentrada de 500 mg que apoya la salud celular, la función cardiovascular y la optimización metabólica con una biodisponibilidad incomparable y una integridad científica.</p>",
+        "button_text": "",
+        "button_url": "",
+        "desktop_text_position": "place-self-start text-start",
+        "image_background": "",
+        "image_background_gradient": "",
+        "overlay_color": "#101010",
+        "overlay_opacity": 0,
+        "overlay_text_color": "#ffffff",
+        "overlay_button_background": "",
+        "overlay_button_text_color": "",
+        "hot_spot_dot_background": "#ffffff",
+        "hot_spot_dot_text_color": "#000000",
+        "hot_spot_content_background": "#ffffff",
+        "hot_spot_content_text_color": "#000000",
+        "hot_spot_content_opacity": 90,
+        "hot_spot_content_blur_radius": 3
+      }
+    },
     "rich_text_MUeYYD": {
       "type": "rich-text",
       "blocks": {
@@ -664,6 +720,7 @@
     "slideshow",
     "featured-collection",
     "scrolling_text_W4RhQh",
+    "hot_spots_TEt8Mz",
     "rich_text_MUeYYD",
     "rich_text_D9PeyP",
     "impact-text",
