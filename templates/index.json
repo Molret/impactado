@@ -588,6 +588,17 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "revealed_image_on_scroll_atfncp": {
+      "type": "revealed-image-on-scroll",
+      "settings": {
+        "image": "shopify://shop_images/clear-lake-water-by-escarpment-cliffs.jpg",
+        "subheading": "",
+        "title": "Este es un texto de prueba",
+        "background": "",
+        "text_color_inside": "#ffffff",
+        "text_color_outside": "#000000"
+      }
     }
   },
   "order": [
@@ -603,6 +614,7 @@
     "testimonials_Bz8Tq3",
     "17304096772009d3d5",
     "rich_text_GferY4",
-    "faq"
+    "faq",
+    "revealed_image_on_scroll_atfncp"
   ]
 }
