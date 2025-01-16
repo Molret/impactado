@@ -15,11 +15,12 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Diseosinttulo-ezgif.com-optimize.gif",
             "content_max_width": 740,
             "mobile_text_position": "place-self-start text-start",
             "desktop_text_position": "sm:place-self-start sm:text-start",
             "subheading": "",
-            "title": "Alimenta tu potencial,<br> transforma tu cuerpo<br> y mente.",
+            "title": "Alimenta tu potencial, transforma tu cuerpo y mente.",
             "heading_tag": "h2",
             "button_text": "Comprar Ahora",
             "button_link": "shopify://collections/all",
