@@ -310,88 +310,33 @@
         "button_text_color": ""
       }
     },
-    "rich_text_MUeYYD": {
-      "type": "rich-text",
+    "press_WYnm7m": {
+      "type": "press",
       "blocks": {
-        "heading_qpkRaE": {
-          "type": "heading",
+        "quote_KXM4DP": {
+          "type": "quote",
           "settings": {
-            "text": "Entretenimiento Portátil",
-            "heading_tag": "h0",
-            "text_color": "",
-            "gradient": "linear-gradient(89deg, rgba(219, 149, 250, 1) 7%, rgba(148, 88, 255, 1) 94%)"
-          }
-        },
-        "richtext_VXLcTN": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><strong>Vive el cine en cualquier lugar con DropLight™</strong>. Su increíble tamaño compacto  te permite llevarlo a todas partes, mientras que su brillo de 260 ANSI y  resolución 4K te aseguran  imágenes impactantes dondequiera que estés.</p>"
-          }
-        },
-        "image_dkJfdW": {
-          "type": "image",
-          "settings": {
-            "width_mode": "custom",
-            "max_width": 250,
-            "mobile_max_width": 200
+            "logo_width": 100,
+            "author": "Moldenhauer A.",
+            "content": "Nosotros creamos Moll & Hauer con el fin de brindar salud y bienestar de las más alta calidad a cada uno de nuestros clientes.",
+            "show_rating": false,
+            "rating": 4
           }
         }
       },
       "block_order": [
-        "heading_qpkRaE",
-        "richtext_VXLcTN",
-        "image_dkJfdW"
+        "quote_KXM4DP"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
+        "content_size": "small",
+        "background": "#708a5c",
         "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "rich_text_D9PeyP": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_Dem3xW": {
-          "type": "heading",
-          "settings": {
-            "text": "Al alcance de todos",
-            "heading_tag": "h0",
-            "text_color": "",
-            "gradient": "linear-gradient(89deg, rgba(219, 149, 250, 1) 7%, rgba(148, 88, 255, 1) 94%)"
-          }
-        },
-        "richtext_dLdWg7": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><strong>Calidad de cine al alcance de todos.</strong> Con el proyector <strong>DropLight™</strong>,<strong> </strong>disfruta de imágenes nítidas y un brillo excepcional sin gastar de más.  Sus características esenciales y precio competitivo lo convierten en la opción inteligente.</p>"
-          }
-        },
-        "image_CmkXRp": {
-          "type": "image",
-          "settings": {
-            "width_mode": "custom",
-            "max_width": 250,
-            "mobile_max_width": 200
-          }
-        }
-      },
-      "block_order": [
-        "heading_Dem3xW",
-        "richtext_dLdWg7",
-        "image_CmkXRp"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
+        "text_color": "#ffffff",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
       }
     },
     "impact-text": {
@@ -440,38 +385,6 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "rich_text_mFUtgf": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_xb96GU": {
-          "type": "heading",
-          "settings": {
-            "text": "¿Que dicen de nosotros?",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": "linear-gradient(54deg, rgba(104, 177, 49, 1) 14%, rgba(255, 250, 99, 1) 85%)"
-          }
-        },
-        "richtext_MwTggj": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_xb96GU",
-        "richtext_MwTggj"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "testimonials_Bz8Tq3": {
@@ -528,6 +441,7 @@
         "testimonial_XiczVP",
         "testimonial_VP9Qr4"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_testimonials": true,
@@ -559,28 +473,6 @@
         "review_header_text_color": "#000000",
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
-      }
-    },
-    "rich_text_GferY4": {
-      "type": "rich-text",
-      "blocks": {
-        "richtext_DchzXe": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>¿Qué esperas para obtener tu proyector <strong>DropLight™ 4K</strong>?<br/><br/><a href=\"/products/proyector-droplight™-4k\" title=\"Proyector DropLight™ 4K\">¡Cómpralo ya!</a></p>"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_DchzXe"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "faq": {
@@ -642,6 +534,23 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "newsletter_X9HTg4": {
+      "type": "newsletter",
+      "settings": {
+        "full_width": false,
+        "image": "shopify://shop_images/wajdalksjdaklsdjklasdj.png",
+        "show_icon": true,
+        "title": "Suscríbete al boletín.",
+        "content": "<p>Suscríbete para recibir notificaciones sobre nuevas historias, noticias y ofertas personales.</p>",
+        "button_text": "Subscribirse",
+        "subtext": "",
+        "background": "#77a6f4",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -652,13 +561,11 @@
     "collection_list_7A4hYM",
     "revealed_image_on_scroll_atfncp",
     "multiple_images_with_text_iDNtNG",
-    "rich_text_MUeYYD",
-    "rich_text_D9PeyP",
+    "press_WYnm7m",
     "impact-text",
-    "rich_text_mFUtgf",
     "testimonials_Bz8Tq3",
     "17304096772009d3d5",
-    "rich_text_GferY4",
+    "newsletter_X9HTg4",
     "faq"
   ]
 }
