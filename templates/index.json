@@ -106,7 +106,7 @@
         "text_size": "large",
         "text_style": "fill",
         "scrolling_mode": "auto",
-        "scrolling_speed": 4,
+        "scrolling_speed": 3,
         "background": "",
         "background_gradient": "",
         "text_color": "#708a5c",
@@ -149,7 +149,7 @@
       "settings": {
         "full_width": true,
         "image": "shopify://shop_images/watonafinal-Photoroom_2_-fotor-2025011601715.jpg",
-        "title": "Acerca del Resveratrol",
+        "title": "Acerca del NAD+",
         "content": "<p>Diseñado por Reus Research con precisión de grado farmacéutico, este suplemento de resveratrol cuenta con un envase diseñado para preservar potentes compuestos antioxidantes, proporcionando una dosis concentrada de 500 mg que apoya la salud celular, la función cardiovascular y la optimización metabólica con una biodisponibilidad incomparable y una integridad científica.</p>",
         "button_text": "",
         "button_url": "",
