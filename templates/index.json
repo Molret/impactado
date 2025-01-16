@@ -80,8 +80,8 @@
         ],
         "full_width": true,
         "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
+        "show_progress_bar": true,
+        "products_count": 8,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "subheading": "",
@@ -91,11 +91,26 @@
         "link_text": "Ver todo",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#708a5c",
         "heading_color": "",
         "heading_gradient": "",
         "product_card_background": "",
         "product_card_text_color": ""
+      }
+    },
+    "scrolling_text_W4RhQh": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": true,
+        "text": "Tu mejor versión está a un clic",
+        "text_size": "large",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 4,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#708a5c",
+        "text_gradient": ""
       }
     },
     "rich_text_MUeYYD": {
@@ -130,6 +145,7 @@
         "richtext_VXLcTN",
         "image_dkJfdW"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -171,6 +187,7 @@
         "richtext_dLdWg7",
         "image_CmkXRp"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -646,6 +663,7 @@
   "order": [
     "slideshow",
     "featured-collection",
+    "scrolling_text_W4RhQh",
     "rich_text_MUeYYD",
     "rich_text_D9PeyP",
     "impact-text",
