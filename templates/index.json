@@ -24,7 +24,7 @@
             "heading_tag": "h2",
             "button_text": "Comprar Ahora",
             "button_link": "shopify://collections/all",
-            "text_color": "#ffffff",
+            "text_color": "#f1e6e6",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
