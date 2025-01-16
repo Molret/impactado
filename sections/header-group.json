@@ -17,7 +17,14 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Envío Gratis 📦",
+            "text": "Envío Estándar GRATIS para todas las ordenes 📦",
+            "url": ""
+          }
+        },
+        "message_xTnNcX": {
+          "type": "message",
+          "settings": {
+            "text": "Descuento: Utiliza el código MH10 para recibir un 10% de descuento en tu pedido",
             "url": ""
           }
         },
@@ -38,6 +45,7 @@
       },
       "block_order": [
         "message",
+        "message_xTnNcX",
         "message_7KYTp4",
         "message_HcNNTN"
       ],
@@ -45,9 +53,9 @@
         "enable_sticky": false,
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
-        "scrolling_speed": 20,
+        "scrolling_speed": 13,
         "background": "#1a1a1a",
-        "background_gradient": "linear-gradient(89deg, rgba(219, 149, 250, 1) 7%, rgba(148, 88, 255, 1) 94%)",
+        "background_gradient": "linear-gradient(54deg, rgba(112, 138, 92, 1) 14%, rgba(100, 210, 79, 1) 97%)",
         "text_color": "#ffffff"
       }
     },
