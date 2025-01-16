@@ -267,6 +267,49 @@
         "text_color_outside": "#000000"
       }
     },
+    "multiple_images_with_text_iDNtNG": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_JHwBgE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Diseno_sin_titulo_1.png",
+            "image_rotation_degrees": -2,
+            "subheading": "Pasión",
+            "title": "Amamos lo puro",
+            "content": "<p>Nuestro NAD+ Resveratrol se elabora con un enfoque riguroso en calidad y pureza. Utilizamos ingredientes de alta calidad y realizamos pruebas exhaustivas en cada etapa de producción para garantizar un suplemento seguro y efectivo. Comprometidos con la excelencia, nuestro NAD+ Resveratrol está diseñado para ofrecerte los máximos beneficios para tu bienestar y vitalidad.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_RBTb4X": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/doctor-working-medical-research.jpg",
+            "image_rotation_degrees": 1.5,
+            "subheading": "Función",
+            "title": "La mejor solución",
+            "content": "<p>Nuestro NAD+ Resveratrol es la mejor solución para el bienestar y la longevidad. Este potente suplemento combina el NAD+, esencial para la producción de energía celular, con el resveratrol, un antioxidante natural que combate el envejecimiento. Juntos, promueven una piel más saludable, mejoran la función cognitiva y aumentan la energía, apoyando un envejecimiento más lento y una vida más activa y vibrante.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_JHwBgE",
+        "item_RBTb4X"
+      ],
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "rich_text_MUeYYD": {
       "type": "rich-text",
       "blocks": {
@@ -608,6 +651,7 @@
     "hot_spots_TEt8Mz",
     "collection_list_7A4hYM",
     "revealed_image_on_scroll_atfncp",
+    "multiple_images_with_text_iDNtNG",
     "rich_text_MUeYYD",
     "rich_text_D9PeyP",
     "impact-text",
