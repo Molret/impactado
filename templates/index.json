@@ -461,6 +461,17 @@
     },
     "17304096772009d3d5": {
       "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_xLApka": {
+          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_xLApka"
+      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -473,6 +484,23 @@
         "review_header_text_color": "#000000",
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
+      }
+    },
+    "newsletter_X9HTg4": {
+      "type": "newsletter",
+      "settings": {
+        "full_width": false,
+        "image": "shopify://shop_images/wajdalksjdaklsdjklasdj.png",
+        "show_icon": true,
+        "title": "Suscríbete al boletín.",
+        "content": "<p>Suscríbete para recibir notificaciones sobre nuevas historias, noticias y ofertas personales.</p>",
+        "button_text": "Subscribirse",
+        "subtext": "",
+        "background": "#77a6f4",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "faq": {
@@ -533,23 +561,6 @@
         "button_text_color": "",
         "accordion_background": "",
         "accordion_text_color": ""
-      }
-    },
-    "newsletter_X9HTg4": {
-      "type": "newsletter",
-      "settings": {
-        "full_width": false,
-        "image": "shopify://shop_images/wajdalksjdaklsdjklasdj.png",
-        "show_icon": true,
-        "title": "Suscríbete al boletín.",
-        "content": "<p>Suscríbete para recibir notificaciones sobre nuevas historias, noticias y ofertas personales.</p>",
-        "button_text": "Subscribirse",
-        "subtext": "",
-        "background": "#77a6f4",
-        "background_gradient": "",
-        "text_color": "#ffffff",
-        "button_background": "",
-        "button_text_color": ""
       }
     }
   },
