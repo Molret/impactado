@@ -176,13 +176,13 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/alohasd.png",
+            "image": "shopify://shop_images/s-l1600_1.jpg",
             "subheading": "",
             "title": "Suplementos",
             "url": "",
             "heading_tag": "h6",
             "text_position": "place-self-end-center text-center",
-            "text_color": "#272727",
+            "text_color": "#000000",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -224,8 +224,8 @@
       "settings": {
         "full_width": false,
         "stack_collections": false,
-        "collections_per_row": 2,
-        "show_progress_bar": true,
+        "collections_per_row": 5,
+        "show_progress_bar": false,
         "subheading": "",
         "title": "",
         "content": "",
