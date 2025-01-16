@@ -295,7 +295,7 @@
         "background": "",
         "background_gradient": "",
         "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(128, 60, 238, 1), rgba(26, 26, 26, 0) 100%)",
+        "heading_gradient": "linear-gradient(180deg, rgba(110, 196, 43, 1) 55%, rgba(26, 26, 26, 0) 100%)",
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
@@ -310,7 +310,7 @@
             "text": "¿Que dicen de nosotros?",
             "heading_tag": "h1",
             "text_color": "",
-            "gradient": "linear-gradient(89deg, rgba(219, 149, 250, 1) 7%, rgba(148, 88, 255, 1) 94%)"
+            "gradient": "linear-gradient(54deg, rgba(104, 177, 49, 1) 14%, rgba(255, 250, 99, 1) 85%)"
           }
         },
         "richtext_MwTggj": {
