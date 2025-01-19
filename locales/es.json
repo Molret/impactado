@@ -437,6 +437,13 @@
             "revoked": "Oops, esta pagina de checkout no existe! Intenta comprar nuevamente el articulo, gracias!"
           }
         }
+      },
+      "field_errors": {
+        "address_company_blank": "Introduce tu RUT / RUN por favor. Es necesario para el envío!",
+        "address_company_too_long": "Eso, no es un rut?",
+        "address_company_contains_html_tags": "Por favor.. Necesitamos tu rut, no un codigo HTML..",
+        "address_company_contains_emojis": "Nos gustan los emojis! Pero necesitamos tu RUT!",
+        "address_company_contains_mathematical_symbols": "Muchas matematicas aquí, necesitamos solo un RUT / RUN, que te parece?"
       }
     }
   }
