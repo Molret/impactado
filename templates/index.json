@@ -257,6 +257,34 @@
         "heading_gradient": ""
       }
     },
+    "17372446974f9baafd": {
+      "type": "apps",
+      "blocks": {
+        "reelup_shoppable_videos_reels_reelup_playlist_TiTYHX": {
+          "type": "shopify://apps/reelup-shoppable-videos-reels/blocks/reelup-playlist/a8ec9e4d-d192-44f7-9c23-595f9ee7dd5b",
+          "settings": {
+            "playlist_id": "rl_pl_12646",
+            "debugging_script": ""
+          }
+        }
+      },
+      "block_order": [
+        "reelup_shoppable_videos_reels_reelup_playlist_TiTYHX"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "revealed_image_on_scroll_atfncp": {
       "type": "revealed-image-on-scroll",
       "settings": {
@@ -462,17 +490,6 @@
     },
     "17304096772009d3d5": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_featured_carousel_xLApka": {
-          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_featured_carousel_xLApka"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -571,6 +588,7 @@
     "scrolling_text_W4RhQh",
     "hot_spots_TEt8Mz",
     "collection_list_7A4hYM",
+    "17372446974f9baafd",
     "revealed_image_on_scroll_atfncp",
     "multiple_images_with_text_iDNtNG",
     "press_WYnm7m",
