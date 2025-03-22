@@ -15,7 +15,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Diseosinttulo-ezgif.com-optimize.gif",
+            "image": "shopify://shop_images/AdobeStock_784786588-ezgif.com-optimize.gif",
             "content_max_width": 740,
             "mobile_text_position": "place-self-start text-start",
             "desktop_text_position": "sm:place-self-start sm:text-start",
@@ -36,7 +36,6 @@
         "image_feWpwK": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Diseno_sin_titulo-ocIYcLBUt-transformed.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
@@ -152,7 +151,6 @@
       "custom_css": [],
       "settings": {
         "full_width": true,
-        "image": "shopify://shop_images/watonafinal-Photoroom_2_-fotor-2025011601715.jpg",
         "title": "Acerca del NAD+",
         "content": "<p>Diseñado por Reus Research con precisión de grado farmacéutico, este suplemento de resveratrol cuenta con un envase diseñado para preservar potentes compuestos antioxidantes, proporcionando una dosis concentrada de 500 mg que apoya la salud celular, la función cardiovascular y la optimización metabólica con una biodisponibilidad incomparable y una integridad científica.</p>",
         "button_text": "",
@@ -180,7 +178,6 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/714G1wQQZoL._SL1600_-fotor-2025011604954.jpg",
             "subheading": "",
             "title": "Suplementos",
             "url": "",
@@ -195,7 +192,6 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/inlife-whey-protein-powder-bodybuilding-supplement-651910.webp",
             "subheading": "",
             "title": "Suplementos",
             "url": "",
@@ -210,7 +206,6 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/s-l1600_1.jpg",
             "subheading": "",
             "title": "Suplementos",
             "url": "",
@@ -225,7 +220,6 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify://shop_images/s-l1600_1.jpg",
             "subheading": "",
             "title": "Suplementos",
             "url": "",
@@ -263,18 +257,6 @@
     },
     "17372446974f9baafd": {
       "type": "apps",
-      "blocks": {
-        "reelup_shoppable_videos_reels_reelup_playlist_TiTYHX": {
-          "type": "shopify://apps/reelup-shoppable-videos-reels/blocks/reelup-playlist/a8ec9e4d-d192-44f7-9c23-595f9ee7dd5b",
-          "settings": {
-            "playlist_id": "rl_pl_12646",
-            "debugging_script": ""
-          }
-        }
-      },
-      "block_order": [
-        "reelup_shoppable_videos_reels_reelup_playlist_TiTYHX"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -292,7 +274,6 @@
     "revealed_image_on_scroll_atfncp": {
       "type": "revealed-image-on-scroll",
       "settings": {
-        "image": "shopify://shop_images/Italy-_0000_Italy-Tuscany-shutterstock_323519972.jpg",
         "subheading": "",
         "title": "Elaborado en Toscana, Italia.",
         "background": "",
@@ -306,7 +287,6 @@
         "item_JHwBgE": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Diseno_sin_titulo_1.png",
             "image_rotation_degrees": -2,
             "subheading": "Pasión",
             "title": "Amamos lo puro",
@@ -318,7 +298,6 @@
         "item_RBTb4X": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/doctor-working-medical-research.jpg",
             "image_rotation_degrees": 1.5,
             "subheading": "Función",
             "title": "La mejor solución",
@@ -512,7 +491,6 @@
       "type": "newsletter",
       "settings": {
         "full_width": false,
-        "image": "shopify://shop_images/wajdalksjdaklsdjklasdj.png",
         "show_icon": true,
         "title": "Suscríbete al boletín.",
         "content": "<p>Suscríbete para recibir notificaciones sobre nuevas historias, noticias y ofertas personales.</p>",
