@@ -117,6 +117,54 @@
         "text_gradient": ""
       }
     },
+    "impact-text": {
+      "type": "impact-text",
+      "blocks": {
+        "1664424181b38582d5-0": {
+          "type": "item",
+          "settings": {
+            "title": "97%",
+            "subheading": "Clientes Satisfechos",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 3.5
+          }
+        },
+        "item_W3Cma4": {
+          "type": "item",
+          "settings": {
+            "title": "+154",
+            "subheading": "Envíos Realizados",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "1664424181b38582d5-0",
+        "item_W3Cma4"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "linear-gradient(180deg, rgba(110, 196, 43, 1) 55%, rgba(26, 26, 26, 0) 100%)",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "hot_spots_TEt8Mz": {
       "type": "hot-spots",
       "blocks": {
@@ -128,8 +176,8 @@
             "horizontal_position_mobile": 24,
             "vertical_position_mobile": 70,
             "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "title": "H2o",
+            "content": "<p>Nos esforzamos en lo posible para poder aportar al planeta, reduciendo las emisiones de carbono en la atmosfera. Con cada compra que se hace, el 2% lo donamos a Stripe Carbon.</p>"
           }
         },
         "item_WiXmen": {
@@ -140,8 +188,8 @@
             "horizontal_position_mobile": 62,
             "vertical_position_mobile": 14,
             "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "title": "C02",
+            "content": "<p>Usamos materiales de alta calidad y que vienen de la naturaleza, es genial, no?</p>"
           }
         }
       },
@@ -152,8 +200,9 @@
       "custom_css": [],
       "settings": {
         "full_width": true,
-        "title": "Acerca del NAD+",
-        "content": "<p>Diseñado por Reus Research con precisión de grado farmacéutico, este suplemento de resveratrol cuenta con un envase diseñado para preservar potentes compuestos antioxidantes, proporcionando una dosis concentrada de 500 mg que apoya la salud celular, la función cardiovascular y la optimización metabólica con una biodisponibilidad incomparable y una integridad científica.</p>",
+        "image": "shopify://shop_images/photo-1493246507139-91e8fad9978e_1.webp",
+        "title": "Acerca de Disfrazame",
+        "content": "<p>Somos una marca especializada en la venta de disfraces y prendas para dormir de alta calidad, envíos rápidos y a un precio asequible para todos los chilenos. Contamos con soporte todos los días del año y garantía en todos nuestros productos.</p>",
         "button_text": "",
         "button_url": "",
         "desktop_text_position": "place-self-start text-start",
@@ -170,6 +219,57 @@
         "hot_spot_content_text_color": "#000000",
         "hot_spot_content_opacity": 90,
         "hot_spot_content_blur_radius": 3
+      }
+    },
+    "press_LwxnKj": {
+      "type": "press",
+      "blocks": {
+        "quote_NXdHcp": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "- Erica AA",
+            "content": "Muy bueno el traje de dinosaurio... A mi hijo le gustó, super bien 😊👍",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_Pknd9M": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": " - Alejandro L",
+            "content": "El traje de super buena calidad, aunque el envío pudo mejorar. Pero todo bien",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_iFnwd7": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "- Beatriz F",
+            "content": "Excelente, super secos los vendedores!",
+            "show_rating": true,
+            "rating": 4
+          }
+        }
+      },
+      "block_order": [
+        "quote_NXdHcp",
+        "quote_Pknd9M",
+        "quote_iFnwd7"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "small",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
       }
     },
     "collection_list_7A4hYM": {
@@ -274,6 +374,7 @@
     },
     "revealed_image_on_scroll_atfncp": {
       "type": "revealed-image-on-scroll",
+      "disabled": true,
       "settings": {
         "subheading": "",
         "title": "Elaborado en Toscana, Italia.",
@@ -350,54 +451,6 @@
         "heading_gradient": "",
         "logo_item_background": "",
         "logo_item_border": ""
-      }
-    },
-    "impact-text": {
-      "type": "impact-text",
-      "blocks": {
-        "1664424181b38582d5-0": {
-          "type": "item",
-          "settings": {
-            "title": "97%",
-            "subheading": "Clientes Satisfechos",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": true,
-            "animate_impact_text_duration": 3.5
-          }
-        },
-        "item_W3Cma4": {
-          "type": "item",
-          "settings": {
-            "title": "+154",
-            "subheading": "Envíos Realizados",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": true,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "1664424181b38582d5-0",
-        "item_W3Cma4"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(110, 196, 43, 1) 55%, rgba(26, 26, 26, 0) 100%)",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
       }
     },
     "testimonials_Bz8Tq3": {
@@ -569,13 +622,14 @@
     "slideshow",
     "featured-collection",
     "scrolling_text_W4RhQh",
+    "impact-text",
     "hot_spots_TEt8Mz",
-    "collection_list_7A4hYM",
+    "press_LwxnKj",
     "17372446974f9baafd",
+    "collection_list_7A4hYM",
     "revealed_image_on_scroll_atfncp",
     "multiple_images_with_text_iDNtNG",
     "press_WYnm7m",
-    "impact-text",
     "testimonials_Bz8Tq3",
     "17304096772009d3d5",
     "newsletter_X9HTg4",
