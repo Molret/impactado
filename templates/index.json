@@ -15,7 +15,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/AdobeStock_784786588-ezgif.com-optimize.gif",
+            "image": "shopify://shop_images/4982413-hd_1920_1080_25fps-ezgif.com-optimize.gif",
             "content_max_width": 740,
             "mobile_text_position": "place-self-start text-start",
             "desktop_text_position": "sm:place-self-start sm:text-start",
@@ -36,7 +36,7 @@
         "image_feWpwK": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/4982413-hd_1920_1080_25fps-ezgif.com-optimize.gif",
+            "image": "shopify://shop_images/1627965-hd_1920_1080_30fps-ezgif.com-optimize.gif",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
@@ -200,7 +200,6 @@
       "custom_css": [],
       "settings": {
         "full_width": true,
-        "image": "shopify://shop_images/cortado-ezgif.com-optimize.gif",
         "title": "Acerca de Disfrazame",
         "content": "<p>Somos una marca especializada en la venta de disfraces y prendas para dormir de alta calidad, envíos rápidos y a un precio asequible para todos los chilenos. Contamos con soporte todos los días del año y garantía en todos nuestros productos.</p>",
         "button_text": "",
@@ -400,7 +399,6 @@
         "item_RBTb4X": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG_4916.jpg",
             "image_rotation_degrees": 1.5,
             "subheading": "Disfrazame",
             "title": "¿Por qué?",
@@ -601,7 +599,6 @@
         "subheading": "FAQ",
         "title": "Preguntas Frecuentes",
         "content": "<p>Aquí podrás encontrar preguntas frecuentes que nos hacen nuestros clientes!</p>",
-        "team_avatar": "shopify://shop_images/Diseno_sin_titulo_1.png",
         "team_avatar_width": 150,
         "support_hours": "Nuestro servicio de atención al cliente está disponible de lunes a viernes: de 8 a. m. a 9:00 p. m.",
         "answer_time": "Tiempo de Respuesta Estimado: 2h",
