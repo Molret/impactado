@@ -389,6 +389,7 @@
         "item_JHwBgE": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/dinosauriosvina.png",
             "image_rotation_degrees": -2,
             "subheading": "Pasión",
             "title": "Amamos la Calidad",
@@ -400,6 +401,7 @@
         "item_RBTb4X": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/IMG_5817.jpg",
             "image_rotation_degrees": 1.5,
             "subheading": "Disfrazame",
             "title": "¿Por qué?",
@@ -600,6 +602,7 @@
         "subheading": "FAQ",
         "title": "Preguntas Frecuentes",
         "content": "<p>Aquí podrás encontrar preguntas frecuentes que nos hacen nuestros clientes!</p>",
+        "team_avatar": "shopify://shop_images/Diseno_sin_titulo.png",
         "team_avatar_width": 150,
         "support_hours": "Nuestro servicio de atención al cliente está disponible de lunes a viernes: de 8 a. m. a 9:00 p. m.",
         "answer_time": "Tiempo de Respuesta Estimado: 2h",
