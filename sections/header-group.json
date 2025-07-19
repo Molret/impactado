@@ -24,7 +24,7 @@
         "message_xTnNcX": {
           "type": "message",
           "settings": {
-            "text": "Descuento: Utiliza el código MH10 para recibir un 10% de descuento en tu pedido",
+            "text": "Descuento: Utiliza el código DISFRAZA10 para recibir un 10% de descuento en tu pedido",
             "url": ""
           }
         },
@@ -38,7 +38,7 @@
         "message_HcNNTN": {
           "type": "message",
           "settings": {
-            "text": "Descuento Verano 40% ☀",
+            "text": "Descuento Invierno 40% ☀",
             "url": ""
           }
         }

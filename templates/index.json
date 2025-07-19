@@ -249,6 +249,19 @@
         "hot_spot_content_blur_radius": 3
       }
     },
+    "custom_html_BFmMpt": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "html": "<p style=\"text-align: center; font-size: 14px; color: #444;\">\n  <span style=\"font-size: 16px;\">🍃</span>\n  <span style=\"margin-left: 5px;\">\n    El <strong>1% de cada venta</strong> se destina a iniciativas que compensan nuestra <strong>huella de carbono</strong>. ¡Gracias por apoyar un futuro más verde!\n  </span>\n</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "press_LwxnKj": {
       "type": "press",
       "blocks": {
@@ -656,6 +669,7 @@
     "impact-text",
     "175295700571c335bd",
     "hot_spots_TEt8Mz",
+    "custom_html_BFmMpt",
     "press_LwxnKj",
     "17372446974f9baafd",
     "collection_list_7A4hYM",
