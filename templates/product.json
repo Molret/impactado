@@ -84,6 +84,7 @@
         },
         "collapsible_text_tkdNjd": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "❔ Sobre el DropLight™ 4K",
             "content": "<p>El <strong>Proyector DropLight™ 4K</strong> es un proyector avanzado, ideal para cine en casa o proyecciones al aire libre. Ofrece una experiencia visual nítida gracias a su resolución de 1280x720 dpi, soportando hasta 4K. Viene con el sistema Android 11, que permite instalar aplicaciones como Netflix, YouTube, Disney+, entre otras, directamente desde la Play Store o fuentes externas.</p><p>Con conectividad WiFi6 y Bluetooth 5.0, es posible conectar dispositivos externos para mejorar el audio y proyectar contenido desde móviles iOS y Android usando tecnología como AirCast. La corrección automática de keystone asegura una imagen precisa, y su rango de proyección va de 40 a 250 pulgadas.</p><p>Incluye puertos HDMI, USB y auxiliar, lo que permite conectar múltiples dispositivos. Además, cuenta con un altavoz HIFI de 5W y es compatible con más de 90 idiomas en su configuración, brindando una experiencia ajustable a diferentes preferencias.</p>"
@@ -91,6 +92,7 @@
         },
         "collapsible_text_RtC3Dq": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "⚙️ Especificaciones Técnicas",
             "content": "<ul><li>Resolución óptica: 1280x720dpi (admite 4K)</li><li>Sistema operativo: Android 11</li><li>Conectividad: Doble WiFi6 (2.4G/5.8G), Bluetooth 5.0</li><li>Tamaño de proyección: 40-250 pulgadas</li><li>CPU: Allwinner H713 Cortex-A53 quad-core</li><li>GPU: Mali-G31 con soporte para OpenGL ES3.2, Vulkan 1.1 y OpenCL2.0</li><li>Puertos: USB, HDMI 2.0, Auxiliar y puerto de alimentación</li><li>Altavoz HIFI integrado de 5W</li></ul>"
@@ -98,6 +100,7 @@
         },
         "collapsible_text_nNUciH": {
           "type": "collapsible_text",
+          "disabled": true,
           "settings": {
             "title": "📦 Contenido del Paquete",
             "content": "<p>El paquete incluye:</p><ul><li>Proyector DropLight 4K</li><li>Cable de corriente y adaptador</li><li>Funda protectora</li><li>Manual de instrucciones</li></ul>"
