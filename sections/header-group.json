@@ -17,28 +17,28 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Envío Estándar GRATIS para todas las ordenes 📦",
+            "text": "Entrega Inmediata 📦",
             "url": ""
           }
         },
         "message_xTnNcX": {
           "type": "message",
           "settings": {
-            "text": "Descuento: Utiliza el código DISFRAZA10 para recibir un 10% de descuento en tu pedido",
+            "text": "Descuento: Utiliza el código FINNS10 para recibir un 10% de descuento en tu compra",
             "url": ""
           }
         },
         "message_7KYTp4": {
           "type": "message",
           "settings": {
-            "text": "Garantía de 7 Días 🥇",
+            "text": "Garantía de 14 Días 🥇",
             "url": ""
           }
         },
         "message_HcNNTN": {
           "type": "message",
           "settings": {
-            "text": "Descuento Invierno 40% ☀",
+            "text": "Plataformas a 1/3 del precio 🤑",
             "url": ""
           }
         }
@@ -55,7 +55,7 @@
         "navigation_mode": "scrolling",
         "scrolling_speed": 13,
         "background": "#1a1a1a",
-        "background_gradient": "linear-gradient(272deg, rgba(196, 102, 238, 1), rgba(82, 139, 236, 1) 100%)",
+        "background_gradient": "linear-gradient(272deg, rgba(109, 238, 102, 1), rgba(82, 139, 236, 1) 100%)",
         "text_color": "#ffffff"
       }
     },

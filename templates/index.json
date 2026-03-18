@@ -15,7 +15,6 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/4982413-hd_1920_1080_25fps-ezgif.com-optimize.gif",
             "content_max_width": 740,
             "mobile_text_position": "place-self-start text-start",
             "desktop_text_position": "sm:place-self-start sm:text-start",
@@ -36,7 +35,6 @@
         "image_feWpwK": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/1627965-hd_1920_1080_30fps-ezgif.com-optimize.gif",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center-start sm:text-start",
@@ -90,7 +88,7 @@
         "products_per_row_desktop": 4,
         "subheading": "",
         "title": "Productos Destacados",
-        "content": "<p>Con un 40% de descuento | Alta calidad garantizada ✅</p>",
+        "content": "<p>Plataformas con hasta un <strong>80%</strong> de descuento | Calidad y entrega Garantizada ✅</p>",
         "link_url": "",
         "link_text": "Ver todo",
         "background": "",
@@ -106,7 +104,7 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "Tu mejor versión está a un clic",
+        "text": "Precios desde los 2990$",
         "text_size": "large",
         "text_style": "fill",
         "scrolling_mode": "auto",
@@ -135,19 +133,32 @@
         "item_W3Cma4": {
           "type": "item",
           "settings": {
-            "title": "+154",
-            "subheading": "Envíos Realizados",
+            "title": "+40",
+            "subheading": "Ventas",
             "content": "",
             "button_text": "",
             "button_url": "",
             "animate_impact_text": true,
             "animate_impact_text_duration": 2
           }
+        },
+        "item_twXYLh": {
+          "type": "item",
+          "settings": {
+            "title": "+10",
+            "subheading": "Meses Vendiendo",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
         }
       },
       "block_order": [
         "1664424181b38582d5-0",
-        "item_W3Cma4"
+        "item_W3Cma4",
+        "item_twXYLh"
       ],
       "settings": {
         "full_width": true,
@@ -167,18 +178,6 @@
     },
     "175295700571c335bd": {
       "type": "apps",
-      "blocks": {
-        "reelup_shoppable_videos_reels_reelup_playlist_U4ygTC": {
-          "type": "shopify://apps/reelup-shoppable-videos-reels/blocks/reelup-playlist/a8ec9e4d-d192-44f7-9c23-595f9ee7dd5b",
-          "settings": {
-            "playlist_id": "rl_pl_18354",
-            "debugging_script": ""
-          }
-        }
-      },
-      "block_order": [
-        "reelup_shoppable_videos_reels_reelup_playlist_U4ygTC"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -228,9 +227,8 @@
       "custom_css": [],
       "settings": {
         "full_width": true,
-        "image": "shopify://shop_images/a-smiling-big-teddy-bear-like-dog.jpg",
-        "title": "Acerca de Disfrazame",
-        "content": "<p>Somos una marca especializada en la venta de disfraces y prendas para dormir de alta calidad, envíos rápidos y a un precio asequible para todos los chilenos. Contamos con soporte todos los días del año y garantía en todos nuestros productos.</p>",
+        "title": "Acerca de Finns",
+        "content": "<p>Somos una tienda online especializada en la venta de suscripciones de plataforma de inteligencia artificial a 1/3 del precio original.<br/><br/>Garantizando un acceso democratico y accesible para cada persona.</p>",
         "button_text": "",
         "button_url": "",
         "desktop_text_position": "place-self-start text-start",
@@ -251,6 +249,7 @@
     },
     "custom_html_BFmMpt": {
       "type": "custom-html",
+      "custom_css": [],
       "name": "Custom HTML",
       "settings": {
         "full_width": true,
@@ -430,7 +429,6 @@
         "item_JHwBgE": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/dinosauriosvina.png",
             "image_rotation_degrees": -2,
             "subheading": "Pasión",
             "title": "Amamos la Calidad",
@@ -442,7 +440,6 @@
         "item_RBTb4X": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG_5817.jpg",
             "image_rotation_degrees": 1.5,
             "subheading": "Disfrazame",
             "title": "¿Por qué?",
@@ -643,7 +640,6 @@
         "subheading": "FAQ",
         "title": "Preguntas Frecuentes",
         "content": "<p>Aquí podrás encontrar preguntas frecuentes que nos hacen nuestros clientes!</p>",
-        "team_avatar": "shopify://shop_images/Diseno_sin_titulo.png",
         "team_avatar_width": 150,
         "support_hours": "Nuestro servicio de atención al cliente está disponible de lunes a viernes: de 8 a. m. a 9:00 p. m.",
         "answer_time": "Tiempo de Respuesta Estimado: 2h",
